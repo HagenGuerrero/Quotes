@@ -1,0 +1,40 @@
+<rss version="0.91">
+	<channel>
+		<title> </title>
+		<link>https://www.brainyquote.com/feeds/todays_quote</link>
+		<description>Today's Quote from BrainyQuote.com</description>
+		<language>en-us</language>
+		<webMaster>bqrss@brainyquote.com (Web Master)</webMaster>
+		<managingEditor>bqrss@brainyquote.com (Web Master)</managingEditor>
+		<pubDate>Wed, 26 Oct 2022 00:00:00 CDT</pubDate>
+		<lastBuildDate>Wed, 26 Oct 2022 00:00:00 CDT</lastBuildDate>
+		<image>
+			<title> </title>
+			<url>https://www.brainyquote.com/images/rss_brainyquote.gif</url>
+			<link>https://www.brainyquote.com/feeds/todays_quote</link>
+			<width>88</width>
+			<height>31</height>
+			<description>logo</description>
+		</image>
+		<item>
+			<title>Braum</title>
+			<description>“The darker the night, the brighter the stars. “</description>
+			<link>https://www.leagueofgraphs.com/es/champions/builds/braum</link>
+		</item>
+		<item>
+			<title>Lucius Annaeus Seneca</title>
+			<description>"The less we deserve good fortune, the more we hope for it."</description>
+			<link>https://www.brainyquote.com/authors/lucius-annaeus-seneca-quotes</link>
+		</item>
+		<item>
+			<title>Mark Twain</title>
+			<description>"The human race has one really effective weapon, and that is laughter."</description>
+			<link>https://www.brainyquote.com/authors/mark-twain-quotes</link>
+		</item>
+		<item>
+			<title>Juvenal</title>
+			<description>"All wish to possess knowledge, but few, comparatively speaking, are willing to pay the price."</description>
+			<link>https://www.brainyquote.com/authors/juvenal-quotes</link>
+		</item>
+	</channel>
+</rss>
